@@ -21,8 +21,7 @@ In this module, we used HTML, JS, and CSS to create a drop menu for the user to 
 
 ## Summary
 **Check-out the code on this interactive website [here](https://shannon-goddard.github.io/grow_plant/)**  
-
-*Coming soon...*  
+ 
 **Check-out the website this project was used with [here](https://www.loyal9.app/)**
 
 ## Limitations  
