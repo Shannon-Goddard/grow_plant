@@ -1,7 +1,4 @@
 # Cannabis Plant Size Planning Tool
-
-![header](pics/header.png)
-
 An interactive web application designed to help cannabis growers plan and understand plant size requirements for their cultivation space. This tool provides detailed guidance on vegetative timing, flowering stretch expectations, and space management for plants ranging from 1 to 6 feet in height.
 
 ## 🌱 Live Demo
